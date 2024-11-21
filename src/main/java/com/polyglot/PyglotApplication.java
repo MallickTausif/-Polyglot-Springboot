@@ -21,4 +21,4 @@ public class PyglotApplication {
 		};
 	}
 
-}Correct if some error
+}
